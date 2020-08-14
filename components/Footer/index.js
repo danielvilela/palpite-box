@@ -9,6 +9,11 @@ const Footer = () => {
                 <a className='hover:underline' target='_blank' href='https://www.linkedin.com'> Linkedin </a>/
                  <a className='hover:underline' target='_blank' href='https://wwww.github.com'> Github</a>
                 <div className='mt-4'>
+                    <img className='inline p-4' src='/logo_devpleno.png' alt='DevPleno' />
+                    <img className='inline p-4' src='logo_semana_fsm.png' alt='Semana FSM' />
+                </div>
+            </div>
+        </div>
     )
 }
 
