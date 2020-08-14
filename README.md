@@ -1,2 +1,2 @@
-# palpite-box
- Palpite Box (desenvolvido durante a semana FullStackMaster)
+# PalpiteBox
+ O Palpite Box é uma caixa de sugestões, desenvolvido durante a semana FullStack Master do dev Túlio Faria.
